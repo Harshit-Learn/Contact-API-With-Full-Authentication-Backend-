@@ -1,7 +1,7 @@
 # Contact-API-With-Full-Authentication-Backend-
 
 
-# 📌 Contact API With Full Authentication (Backend)
+
 
 This project is a **Node.js + Express.js backend** that provides secure authentication and contact management API.  
 It includes **JWT authentication**, **bcrypt.js = To secure the password (by hashing)**, and secure **REST API endpoints**.
@@ -59,5 +59,3 @@ cd Contact-API-With-Full-Authentication-Backend
 
 
 
-क्या चाहोगे कि मैं तुम्हारे लिए इसमें एक **project workflow diagram (API request → middleware → DB → response)** भी README.md में add कर दूँ ताकि और professional लगे?
-```
