@@ -30,7 +30,7 @@ app.get("/", (req, res) => {
 
 //NOTE: ENV variable ko use krne keliye>  process.env.MONGO_URI
 mongoose
-  .connect(process.env. MONGO_URT
+  .connect(process.env. MONGO_URI
     ,
     {
       dbName: "NodeJS_Course",
